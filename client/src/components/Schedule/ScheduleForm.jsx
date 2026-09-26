@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import api from "../../services/api";
 import { useTheme } from "../../Context/ThemeContext";
-import useToast from "../../hooks/useToast";
+import useToast from "../../Hooks/useToast";
 import { useNavigate } from "react-router-dom";
 
 

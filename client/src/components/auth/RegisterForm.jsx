@@ -1,7 +1,7 @@
 // import { useState } from "react";
 // import axios from "axios";
 // import { useNavigate, Link } from "react-router-dom";
-// import useToast from "../../hooks/useToast";
+// import useToast from "../../Hooks/useToast";
 // import { useTheme } from "../../Context/ThemeContext";
 
 // function RegisterForm() {
@@ -168,7 +168,7 @@
 import { useState } from "react";
 import api from "../../services/api";
 import { useNavigate, Link } from "react-router-dom";
-import useToast from "../../hooks/useToast";
+import useToast from "../../Hooks/useToast";
 import { useTheme } from "../../Context/ThemeContext";
 
 function RegisterForm() {

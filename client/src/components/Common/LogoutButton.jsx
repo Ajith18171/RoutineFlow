@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import useToast from "../../hooks/useToast";
+import useToast from "../../Hooks/useToast";
 
 function LogoutButton() {
 

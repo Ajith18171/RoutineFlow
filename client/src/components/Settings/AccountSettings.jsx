@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { User, Mail, Phone, Save } from "lucide-react";
 import { useTheme } from "../../Context/ThemeContext";
-import useToast from "../../hooks/useToast";
+import useToast from "../../Hooks/useToast";
 
 function AccountSettings() {
   const { darkMode } = useTheme();

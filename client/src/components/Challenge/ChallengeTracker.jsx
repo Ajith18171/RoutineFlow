@@ -14,7 +14,7 @@ import api from "../../services/api";
 
 import { useTheme } from "../../Context/ThemeContext";
 
-import useToast from "../../hooks/useToast";
+import useToast from "../../Hooks/useToast";
 
 import ChallengeStartForm from "./ChallengeStartForm";
 import DayDetailModal from "./DayDetailModal";

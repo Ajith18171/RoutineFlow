@@ -8,7 +8,7 @@ import {
   Trash2,
   Search,
 } from "lucide-react";
-import useToast from "../../hooks/useToast";
+import useToast from "../../Hooks/useToast";
 
 function ScheduleList() {
   const { darkMode } = useTheme();

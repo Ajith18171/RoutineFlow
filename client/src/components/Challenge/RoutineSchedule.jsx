@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Clock, Pencil, Check, X } from "lucide-react";
 import api from "../../services/api";
 import { useTheme } from "../../Context/ThemeContext";
-import useToast from "../../hooks/useToast";
+import useToast from "../../Hooks/useToast";
 import { getTaskIcon } from "../../config/taskIcons";
 
 // Formats "18:00" -> "6:00 PM" for display
