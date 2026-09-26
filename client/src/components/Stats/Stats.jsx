@@ -1,5 +1,5 @@
 import { CheckCircle2, Clock3, Users, ShieldCheck } from "lucide-react";
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 function Stats() {
   const { darkMode } = useTheme();

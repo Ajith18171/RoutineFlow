@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Clock, Pencil, Check, X } from "lucide-react";
 import api from "../../services/api";
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 import useToast from "../../hooks/useToast";
 import { getTaskIcon } from "../../config/taskIcons";
 

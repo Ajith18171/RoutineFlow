@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Bell, Moon, Clock, Save } from "lucide-react";
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 import useToast from "../../hooks/useToast";
 
 function PreferenceSettings() {

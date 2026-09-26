@@ -5,7 +5,7 @@ import {
   BarChart3
 } from "lucide-react";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 function Workflow() {
 

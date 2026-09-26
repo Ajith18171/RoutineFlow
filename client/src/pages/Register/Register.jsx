@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { ArrowLeft } from "lucide-react";
 import RegisterForm from "../../components/auth/RegisterForm";
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 import ThemeToggle from "../../components/Common/ThemeToggle";
 
 function Register() {

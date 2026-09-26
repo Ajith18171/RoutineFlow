@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 import api from "../../services/api";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 import {
   CalendarDays,

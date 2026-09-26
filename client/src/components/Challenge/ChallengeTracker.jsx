@@ -12,7 +12,7 @@ import {
 
 import api from "../../services/api";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 import useToast from "../../hooks/useToast";
 

@@ -2,7 +2,7 @@
 // import axios from "axios";
 // import { useNavigate, Link } from "react-router-dom";
 // import useToast from "../../hooks/useToast";
-// import { useTheme } from "../../context/ThemeContext";
+// import { useTheme } from "../../Context/ThemeContext";
 
 // function RegisterForm() {
 //   const navigate = useNavigate();
@@ -169,7 +169,7 @@ import { useState } from "react";
 import api from "../../services/api";
 import { useNavigate, Link } from "react-router-dom";
 import useToast from "../../hooks/useToast";
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 function RegisterForm() {
   const navigate = useNavigate();

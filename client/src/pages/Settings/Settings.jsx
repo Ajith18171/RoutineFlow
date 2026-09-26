@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Navbar from "../../components/Navbar/Navbar";
 import Sidebar from "../../components/Sidebar/Sidebar";
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 import AccountSettings from "../../components/Settings/AccountSettings";
 import SecuritySettings from "../../components/Settings/SecuritySettings";

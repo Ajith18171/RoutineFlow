@@ -5,7 +5,7 @@ import Sidebar from "../../components/Sidebar/Sidebar";
 
 import PomodoroTimer from "../../components/Focus/PomodoroTimer";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 
 function Focus(){

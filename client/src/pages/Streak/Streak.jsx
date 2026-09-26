@@ -8,7 +8,7 @@ import StreakCard from "../../components/Streak/StreakCard";
 import DailyGoal from "../../components/Streak/DailyGoal";
 import AchievementCard from "../../components/Streak/AchievementCard";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 
 

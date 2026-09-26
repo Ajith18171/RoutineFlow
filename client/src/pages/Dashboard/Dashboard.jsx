@@ -11,7 +11,7 @@ import ChallengeTracker from "../../components/Challenge/ChallengeTracker";
 import Navbar from "../../components/Navbar/Navbar";
 import Sidebar from "../../components/Sidebar/Sidebar";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 import LogoutButton from "../../components/Common/LogoutButton";
 
 import api from "../../services/api";

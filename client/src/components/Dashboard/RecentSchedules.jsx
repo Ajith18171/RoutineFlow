@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 import api from "../../services/api";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 import {
   History,

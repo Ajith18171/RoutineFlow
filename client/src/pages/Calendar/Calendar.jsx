@@ -11,7 +11,7 @@ import WeekView from "../../components/Calendar/WeekView";
 import CalendarSidebar from "../../components/Calendar/CalendarSidebar";
 import DayScheduleModal from "../../components/Calendar/DayScheduleModal";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 
 function Calendar(){

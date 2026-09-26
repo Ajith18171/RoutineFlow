@@ -8,7 +8,7 @@ import Features from "../../components/Features/Features";
 import Workflow from "../../components/Workflow/Workflow";
 import EmptyState from "../../components/EmptyState/EmptyState";
 
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 function Home() {
   const [sidebarOpen, setSidebarOpen] = useState(false);

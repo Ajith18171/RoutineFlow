@@ -1,5 +1,5 @@
 import { CalendarDays, Sparkles } from "lucide-react";
-import { useTheme } from "../../context/ThemeContext";
+import { useTheme } from "../../Context/ThemeContext";
 
 function WelcomeBanner() {
   const { darkMode } = useTheme();
